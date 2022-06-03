@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @ineogi2
-- 👀 I’m interested in Robotics / Automobile
-- 🌱 I’m currently learning Control system / Reinforcement Learning
-- 📫 How to reach me ineogi2@snu.ac.kr
+---
+<div align="center">
+  
+# 💫About Me :
+🔭 I’m currently studying in SNU : https://me.snu.ac.kr
+  
+🌱 I’m currently learning : ROS2 / Control Mechanism
 
-<!---
-ineogi2/ineogi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  👯 I’m looking to collaborate on my webpage
+
+  💬 Ask me about for any help
+
+  📫 How to reach me:  
+  Mail me at "ineogi2@gmail.com" or "ineogi2@snu.ac.kr"
+
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)    ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
